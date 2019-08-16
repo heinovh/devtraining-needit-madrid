@@ -33,6 +33,8 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_knowledge" label="Knowledge" max_length="40" name="u_knowledge" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_location" label="Location" max_length="40" name="u_location" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_made_sla" label="Made SLA" max_length="40" name="u_made_sla" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mobile phone" max_length="40" name="u_mobile_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_new_field_1" label="New field 1" max_length="40" name="u_new_field_1" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_number" label="Number" max_length="40" name="u_number" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_opened_at" label="Opened at" max_length="40" name="u_opened_at" type="string"/>
@@ -49,6 +51,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_short_description" label="Short description" max_length="40" name="u_short_description" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_sla_due" label="SLA due" max_length="40" name="u_sla_due" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_state" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Task type" max_length="40" name="u_task_type" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_time_worked" label="Time worked" max_length="40" name="u_time_worked" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_upon_approval" label="Upon approval" max_length="40" name="u_upon_approval" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_upon_reject" label="Upon reject" max_length="40" name="u_upon_reject" type="string"/>
